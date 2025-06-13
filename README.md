@@ -22,6 +22,7 @@ Start opening cases and enjoy!
 2. [CSGOEmpire Promo Code](https://github.com/csgo-codes/csgoempire-promo-code)
 3. [CSGO500 Promo Code](https://github.com/csgo-codes/csgo500-promo-code)
 4. [CSGOLuck Promo Code](https://github.com/csgo-codes/csgoluck-promo-code)
+5. [Shuffle Promo Code](https://github.com/csgo-codes/shuffle-promo-code)
 
 ## Why Is Hellcase a Popular Case Opening Site?
 Diverse case inventory: Ranging from budget to premium, each with transparent odds
